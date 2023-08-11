@@ -1,0 +1,53 @@
+.title{
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+}
+.btn_b{
+	margin-top: 10px !important;
+}
+.c_prev{
+	left: 89% !important;
+	bottom: 5% !important;
+}
+.c_next{
+	right: 2% !important;
+	bottom: 5% !important;
+}
+.c_prev, .c_next{
+	top: 85%;
+	width: 5%
+}
+.li_num{
+	width: 50% !important;
+}
+.m_grid{
+	background-color: gray;
+}
+.box{
+	height: 80px;
+}
+.col_1{
+	background-color: blueviolet;
+}
+.col_2{
+	background-color: violet ;
+}
+.col_3{
+	background-color: red;
+}
+.col_4{
+	background-color: purple;
+}
+.col_5{
+	background-color:seagreen ;
+}
+.col_6{
+	background-color:yellow ;
+}
+.col_7{
+	background-color: royalblue;
+}
+.col_8{
+	background-color:orange ;
+}
